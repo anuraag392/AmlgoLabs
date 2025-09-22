@@ -1,0 +1,88 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment variables
+.env
+.env.local
+.env.production
+
+# Model files and data
+*.bin
+*.safetensors
+*.pt
+*.pth
+*.onnx
+models/
+data/*.txt
+data/*.pdf
+data/*.docx
+data/*.json
+
+# Vector database files
+vectordb/*.faiss
+vectordb/*.index
+vectordb/*.pkl
+vectordb/*.json
+
+# Chunks and embeddings
+chunks/*.pkl
+chunks/*.json
+chunks/*.npy
+
+# Logs
+logs/
+*.log
+
+# Cache
+.cache/
+.pytest_cache/
+.mypy_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Large files
+*.zip
+*.tar.gz
+*.rar
