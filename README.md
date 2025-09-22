@@ -1,4 +1,5 @@
 # RAG Chatbot - Amlgo Labs
+Project Link and source code : https://github.com/anuraag392/AmlgoLabs
 
 A Fine-Tuned RAG (Retrieval-Augmented Generation) Chatbot with Streaming Responses built for Amlgo Labs.
 
