@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 3. Run the application:
 ```bash
-streamlit run src/chatbot_app.py
+python run_chatbot.py
 ```
 
 ## Usage
@@ -69,12 +69,6 @@ The system supports various configuration options:
 - **Retrieval Settings**: Similarity threshold, reranking options
 - **UI Settings**: Streaming mode, source citations
 
-## Testing
-
-Run the test suite:
-```bash
-pytest src/test_*.py -v
-```
 
 ## Performance
 
